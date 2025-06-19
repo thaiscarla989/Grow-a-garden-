@@ -9,7 +9,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "🌱 Spawner",
    LoadingTitle = "Spawner System",
-   LoadingSubtitle = "By: Thais Carla Games",
+   LoadingSubtitle = "By: Thais % DarkScripts(seeds, eggs, etc.)",
    ConfigurationSaving = {
       Enabled = false
    },
